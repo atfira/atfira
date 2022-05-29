@@ -1,6 +1,6 @@
 # 💫About Me :
-I am passionate about everything related to IT development, and very 
-attracted to new technologies; Do what you love, love what you do.
+I am passionate about everything related to IT development, and very attracted to new technologies; Do what you love, love what you do.
+Software engineer, #DotNet Full Stack, Js, #Sharepoint, #Microsoft365, #powerApps, #powerAutomate
 
 
 ## 🌐Socials
@@ -19,5 +19,3 @@ attracted to new technologies; Do what you love, love what you do.
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=atfira&icon=0&color=0)](https://visitcount.itsvg.in)
