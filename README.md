@@ -1,8 +1,9 @@
 # 💫About Me :
-I am passionate about everything related to IT development, and very attracted to new technologies; Do what you love, love what you do.
-
 Software engineer, #DotNet Full Stack, JavaScript, #Sharepoint, #Microsoft365, #powerApps, #powerAutomate
 
+I am passionate about everything related to IT development, and very attracted to new technologies 
+
+**Do what you love, love what you do.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-bahlouli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oussamabahlouli) 
