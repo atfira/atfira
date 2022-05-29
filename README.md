@@ -1,6 +1,7 @@
 # 💫About Me :
 I am passionate about everything related to IT development, and very attracted to new technologies; Do what you love, love what you do.
-Software engineer, #DotNet Full Stack, Js, #Sharepoint, #Microsoft365, #powerApps, #powerAutomate
+
+Software engineer, #DotNet Full Stack, JavaScript, #Sharepoint, #Microsoft365, #powerApps, #powerAutomate
 
 
 ## 🌐Socials
