@@ -1,5 +1,5 @@
 # 💫About Me :
-Software engineer, .Net Full Stack, JavaScript, SharePoint, Microsoft 365, PowerApps, Power Automate
+Software engineer, .Net Full Stack, JavaScript, SharePoint, Microsoft 365, Microsoft Power Platform (PowerApps, Power Automate)
 
 I am passionate about everything related to IT development, and very attracted to new technologies 
 
